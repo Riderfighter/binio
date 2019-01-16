@@ -10,7 +10,7 @@
 # Notes
 > The package was originally developed to be used for a specific game. You may have to change some of the functions to suit your individual needs.
 
-> A requirement of this package is the [struct package](https://github.com/OpenSystemsLab/struct.nim) which can be gotten directly from nimble. For example:
+> A dependency for this package is [struct](https://github.com/OpenSystemsLab/struct.nim) which can be gotten directly from nimble. For example:
 ```
 nimble install struct
 ```

@@ -6,7 +6,7 @@
 
 # Usage
 > Refer to `example/example.nim` for usage and examples.
-
+    
 # Notes
 > The package was originally developed to be used for a specific game. You may have to change some of the functions to suit your individual needs.
 

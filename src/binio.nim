@@ -9,7 +9,7 @@ type
 proc `$`*(p: Packet): string =
     result = toHex(p.Data)
 
-proc advance(p: Packet, amount: int): int =
+proc advance*(p: Packet, amount: int): int =
     p.Index += amount
     return p.Index
 
